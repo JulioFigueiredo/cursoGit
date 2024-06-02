@@ -2,3 +2,15 @@ Olá, teste
 comando p adicionar varios arquivos/pastas:
 git add .
 git status para ver
+git reflog p ver commits antigos
+
+para voltar para versões antigas git reset --hard (codigo da versão)
+
+para ver branch atual:
+git branch
+
+para criar branch:
+git branch "nome"
+
+para mudar de branch:
+git checkout "nome"
