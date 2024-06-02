@@ -19,3 +19,7 @@ para unir branches:
 - entrar na branch principal
 - dar git pull
 - git merge "nome da branch"git
+
+para criar um gitignore:
+
+touch .gitignore
