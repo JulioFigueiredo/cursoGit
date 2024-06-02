@@ -1,1 +1,4 @@
 Olá, teste
+comando p adicionar varios arquivos/pastas:
+git add .
+git status para ver
